@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://kuba123:kuba123@devconnector.nqd4x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://kuba123:kuba123@devconnector.nqd4x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "EmilkaJestPiekna"
 }
