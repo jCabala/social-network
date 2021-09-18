@@ -10,7 +10,7 @@ const gravatar = require('gravatar');
 const bcrypt = require('bcryptjs');
 
 //user model
-const User = require('../../models/user');
+const User = require('../../models/User');
 
 //json web token
 const jwt = require('jsonwebtoken');

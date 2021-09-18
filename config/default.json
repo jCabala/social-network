@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://kuba123:kuba123@devconnector.nqd4x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "EmilkaJestPiekna"
+  "jwtSecret": "EmilkaJestPiekna",
+  "githubClientId": "8f265fa79192e94768a7",
+  "githubSecret": "ce9ec99c837f291a3527976c73f87e019201f55f"
 }
