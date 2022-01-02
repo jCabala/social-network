@@ -12,6 +12,7 @@
   "author": "Jakub Cabala",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.24.0",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.6",
     "express": "^4.17.1",
@@ -19,6 +20,7 @@
     "gravatar": "^1.8.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.7",
+    "normalize-url": "^7.0.2",
     "rquest": "^0.1.0"
   },
   "devDependencies": {
